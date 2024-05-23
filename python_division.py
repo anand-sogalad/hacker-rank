@@ -3,7 +3,7 @@ def python_division(a: int, b: int):
     print(x, y, sep="\n")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     a = int(input())
     b = int(input())
     python_division(a, b)

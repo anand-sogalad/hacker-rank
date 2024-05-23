@@ -3,7 +3,7 @@ def arithmetic_operators(a: int, b: int):
     print(x, y, z, sep="\n")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     a = int(input())
     b = int(input())
     arithmetic_operators(a, b)
